@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Sky]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [April 11, 2022 - Monday].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+### R1D0
+Had to refamiliarize myself with GitHub and Git—read a few articles on this.
+---
+Thoughts: Great to get back into coding, but also nervous!
+<!-- 
+### R1D2 -->
